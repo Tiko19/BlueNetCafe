@@ -1,0 +1,11 @@
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\bin\Debug\BlueNetCafe.exe.config
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\bin\Debug\BlueNetCafe.exe
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\bin\Debug\BlueNetCafe.pdb
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.csprojAssemblyReference.cache
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.Home.resources
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.Properties.Resources.resources
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.csproj.GenerateResource.cache
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.exe
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.pdb
+C:\Users\Terry\Documents\GitHub\BlueNetCafe\obj\Debug\BlueNetCafe.Orders.resources
