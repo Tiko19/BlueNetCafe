@@ -12,17 +12,22 @@ namespace BlueNetCafe
 {
     public partial class Orders : Form
     {
-        private double cost;
-
         public Orders(double val)
         {
             InitializeComponent();
-            cost = val;
+            label3.Text = "$" + val.ToString();
         }
 
-        private void Orders_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Thank You!");
+            //print receipt
+            this.Close();
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
